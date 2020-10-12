@@ -85,7 +85,7 @@ function draw(){
    
 
     //set background color 
-    background("#29D2E4");
+    background(255);
     //Adding console
     console.log(trex.y);
   
